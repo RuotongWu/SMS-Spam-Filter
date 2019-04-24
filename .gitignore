@@ -89,6 +89,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+checkpoint/
+data/
+.checkpoint
+.data
 
 # Spyder project settings
 .spyderproject
